@@ -1,6 +1,5 @@
 # Node.js
 node_modules/
-package-lock.json
 
 # build
 dist/
@@ -15,3 +14,8 @@ Thumbs.db
 .env
 .env.local
 .env.*.local
+
+# pnpm 파일
+pnpm-lock.yaml
+.pnpm-store/
+.pnpm/
