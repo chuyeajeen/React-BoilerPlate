@@ -1,0 +1,17 @@
+# Node.js
+node_modules/
+package-lock.json
+
+# build
+dist/
+
+# Editor & OS-specific files
+.DS_Store
+Thumbs.db
+.idea/
+*.log
+
+# 환경변수 파일
+.env
+.env.local
+.env.*.local
